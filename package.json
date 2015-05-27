@@ -1,5 +1,5 @@
 {
-  "name": "mongo-stream",
+  "name": "mongo-trigger",
   "version": "0.0.1",
   "description": "Listening to MongoDB live changes with mongo-oplog",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/afharo/mongo-stream.git"
+    "url": "https://github.com/afharo/mongo-trigger.git"
   },
   "keywords": [
     "mongodb",
@@ -19,9 +19,9 @@
   "author": "afharo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/afharo/mongo-stream/issues"
+    "url": "https://github.com/afharo/mongo-trigger/issues"
   },
-  "homepage": "https://github.com/afharo/mongo-stream",
+  "homepage": "https://github.com/afharo/mongo-trigger",
   "dependencies": {
     "mongo-oplog": "^0.1.7"
   }
