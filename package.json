@@ -1,6 +1,6 @@
 {
   "name": "mongo-trigger",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Listening to MongoDB live changes with mongo-oplog",
   "main": "index.js",
   "scripts": {
