@@ -1,6 +1,6 @@
 {
   "name": "mongo-trigger",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Listening to MongoDB live changes with mongo-oplog",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/afharo/mongo-trigger",
   "dependencies": {
-    "mongo-oplog": "^0.2.1"
+    "mongo-oplog": "^1.0.0-rc.1"
   }
 }
